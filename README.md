@@ -1,4 +1,4 @@
-# linuxCommands
+# Curso Linux
 Comandos básicos para terminal Linux
 
 Arquivo para guardar os comandos usados em terminais das distribuições Linux.
