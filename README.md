@@ -1,5 +1,6 @@
 # Curso Linux
-Comandos básicos para terminal Linux
+Curso de Git/Github/Github-Desktop
 
-Arquivo para guardar os comandos usados em terminais das distribuições Linux.
-Fazendo parte também de um estudo de Linux e GIT/GIThub.
+Repositório de estudo da live do curso em vídeo sobre Git, Github e Github desktop.
+
+Linha editada diretamento pelo Github.
